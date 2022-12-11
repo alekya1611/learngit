@@ -1,3 +1,7 @@
 ans: 25
 ans: {'suzuki': 'rexd', 'ford': 'white', 'maruthi': 'grey'}
 
+suzuki red
+swift grey
+audi white
+{'suzuki': 'red', 'swift': 'grey', 'audi': 'white'}
