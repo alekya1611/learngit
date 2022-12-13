@@ -1,7 +1,0 @@
-ans: 25
-
-
-suzuki red
-swift grey
-audi white
-{'suzuki': 'red', 'swift': 'grey', 'audi': 'white'}
